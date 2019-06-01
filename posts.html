@@ -6,21 +6,7 @@ layout: posts
 <div class="container-fluid">
     <div class="row no-gutter">
         {% for post in site.posts %}
-        <div class="col-lg-4 col-sm-6">
-            <a href="{{ post.url }}" class="portfolio-box">
-                <img src="{{ post.cover }}" class="img-responsive" alt="">
-                <div class="portfolio-box-caption">
-                    <div class="portfolio-box-caption-content">
-                        <div class="project-category text-faded">
-                            {{ post.title }}
-                        </div>
-                        <div class="project-name">
-                            {{ post.summary }}
-                        </div>
-                    </div>
-                </div>
-            </a>
-        </div>
+            {% include post_thumb.html %}
         {% endfor %}
     </div>
 </div>
