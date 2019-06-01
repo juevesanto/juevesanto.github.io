@@ -2,7 +2,7 @@
 layout: post
 title:  "Pasta con salsa de brócoli"
 summary: "Pasta con salsita cremosa de brócoli para volverse loco"
-cover: "/img/leaves.jpg"
+cover: "/img/-5544446793804746238_IMG_2294.jpg"
 ---
 # Pasta con salsa de brócoli
 
@@ -16,3 +16,4 @@ La preparación es súper fácil y tampoco te va a llevar mucho tiempo. Cortas l
 
 *Sugerencia: puedes añadirle almendras, nueces, piñones u otros frutos secos e incluso tomates secos. Pasados por la sarten. Le dan muy buen toque.*
 
+![](/img/-5544446793804746238_IMG_2294.jpg)
