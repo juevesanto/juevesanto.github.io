@@ -2,7 +2,7 @@
 layout: post
 title:  "Pasta con salsa de brócoli"
 summary: "Pasta con salsita cremosa de brócoli para volverse loco"
-cover: "/img/pastabrocos.jpg"
+cover: "/img/leaves.jpg"
 ---
 # Pasta con salsa de brócoli
 
