@@ -13,5 +13,6 @@ Pero bueno, no me enrrollo más. Una vez hecha la presentación voy a ir al lío
 De ingredientes solo necesitas un paquete de doscientos cincuenta gramos de la pasta que más te guste; esta es de lentejas rojas y trigo sarraceno, una cebollita, una taza de brócoli cocido, un vaso de leche vegetal sin endulzar, un diente de ajo y sal y pimienta al gusto.
 
 La preparación es súper fácil y tampoco te va a llevar mucho tiempo. Cortas la cebollita y el diente de ajo y lo sofries en dos cucharaditas de AOVE mientras se va cociendo la pasta. Cuando ya esté cocinada la cebollita y el ajo, vertemos medio vaso de leche vegetal en la sartén. ¡Cuidado que no se te pase la pasta! Mientras vas cogiendo el control de tu cocina, vierte en el vaso de la batidora la taza de brócoli y lo que queda de leche vegetal y tritura *como haciendo mayonesa*. Cuando la leche vegetal de la cebolla y el ajo se haya consumido y quede como una "bechamel", añade el brócoli. Junta la salsa con la pasta, sazona al gusto y *et voilà*, comida fácil, sana y riquísima. 
+
 *Sugerencia: puedes añadirle almendras, nueces, piñones u otros frutos secos e incluso tomates secos. Pasados por la sarten. Le dan muy buen toque.*
 
