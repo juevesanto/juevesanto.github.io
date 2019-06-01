@@ -190,6 +190,9 @@ header {
  }
 
 #post {
+    .container{
+        width: 800px;
+    }
     img {
         width: 800px;
         background-size: cover;
