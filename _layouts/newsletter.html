@@ -4,9 +4,9 @@
 {% include head.html %}
 
 <body id="page-top">
-  {% include nav.html %}
-  <p class="bottom-three"></p>
-  <div class="container">
+    {% include nav.html %}
+    <p class="bottom-three"></p>
+    <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Suscríbete a mi newsletter</h2>
@@ -14,9 +14,11 @@
             </div>
         </div>
     </div>
-  {{ content }}
-  {% include contact.html %}
-  {% include scripts.html %}
+    <div id="newsletter" class="container">
+        {{ content }}
+    </div>
+    {% include contact.html %}
+    {% include scripts.html %}
 </body>
 
 </html>
