@@ -33,7 +33,7 @@ Recuerda que si tienes más animales en casa, deberá estar en una habitación a
 
 Por supuesto, si el gato corre peligro donde está, haremos bien en subirlo a casa, y también en este caso siempre y cuando estemos dispuestos a ayudarle hasta el final.
 
-![](/img/GATATRICO.png)
+![](/img/GATATRICO.jpg)
 
 
 **Segundo paso: La identificación** 
