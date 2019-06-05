@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bizcocho de chocolate y aguacate"
-summary: "Pasta con salsita cremosa de brócoli para volverse loco"
+summary: "Bizcocho súper jugoso ideal para cualquier ocasión"
 cover: "/img/bizcocho.jpg"
 ---
 
