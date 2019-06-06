@@ -31,7 +31,7 @@ La verdad es que no me gusta mucho hacer mezclas problemáticas, por eso te pido
 
 - Aceite al gusto
 
-**Ingredientes para la masa**
+**Ingredientes de *topping***
 
 - 1 manzana o pera, las dos quedan genial.
 
