@@ -13,7 +13,7 @@ La verdad es que no me gusta mucho hacer mezclas problemáticas, por eso te pido
 
 ¿Y tú? ¿Cuál es tu pizza favorita?
 
-![](/img/yummi.jpg)
+![](/img/yummi.JPG)
 
 **Ingredientes para la masa**
 
