@@ -42,7 +42,7 @@ Y es que cuando vi una receta similar donde le añadían aguacate al bizcocho me
 
 ¡Y el procedimiento no os lo voy a explicar yo! Lo vais a ver en este vídeo que he montado para la receta:
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/v916VCHMB-k' frameborder='0' allowfullscreen></iframe></div>
+{% include youtube_embed.html id="v916VCHMB-k" %}
 
 **¡QUE LO DISFRUTES!**
 

@@ -39,21 +39,6 @@ Pueblerinos y pueblerinas, vamos con los ingredientillos...
 Y como de costumbre: ¡el procedimiento no os lo voy a explicar yo! Lo vais a ver en este vídeo que he montado para la receta:
 
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K-bCuSdX-js" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
-
-
-
-
-
+{% include youtube_embed.html id="K-bCuSdX-js" %}
 
 **¿QUÉ TE PARECE? ¿TE GUSTARÍA VER MÁS RECETAS DE PASTA? ¿QUIZÁ ALGUNA PICANTE?  COMÉNTAMELO Y TUS DESEOS SERÁN ÓRDENES**
-
-
