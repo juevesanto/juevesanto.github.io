@@ -8,9 +8,9 @@ cover: "/img/gatoporta.jpg"
 **Introducción**
 
 
-En primer lugar, me gustaría destacar que en este post no vas a encontrar publicidad de ninguna marca concreta  ni es un escrito para hacer boicot a otras. Si que es verdad que podría hablar mal de marcas de piensos que se anuncian en medios de comunicación y que jamás recomendaría a nadie que le diese ese pienso a su gato o gata y, además, prohibiría que dijeran según que mentiras. 
+En primer lugar, me gustaría destacar que en este post no vas a encontrar publicidad de ninguna marca concreta  ni es un escrito para hacer boicot a otras. Si que es verdad que podría hablar mal de marcas de piensos que se anuncian en medios de comunicación y que jamás recomendaría y, además, prohibiría que dijeran según que mentiras. 
 
-Pero, de todas formas, aquí vengo a darte consejos para que, sin excluir ni vender ninguna marca, para que puedas sacar tus propias conclusiones y tomar una buena decisión. 
+De todas formas, aquí vengo a darte consejos para que, sin excluir ni vender ninguna marca, para que puedas sacar tus propias conclusiones y tomar una buena decisión. 
 
 ¡Espero ser de gran ayuda!
 
