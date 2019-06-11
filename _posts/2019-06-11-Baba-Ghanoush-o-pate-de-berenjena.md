@@ -38,7 +38,7 @@ El baba ghanoush tiene orígen en el levante mediterráneo y suele acompañarse 
 - El zumo de medio limón
 
 
-- Sal al gusto
+- Sal, pimienta y comino al gusto
 
 
 - Perejil
