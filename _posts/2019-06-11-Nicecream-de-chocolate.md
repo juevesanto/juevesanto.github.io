@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nicecream de chocolate"
+title:  "Nicecream de chocolate (GLUTEN FREE)"
 summary: "Helado de plátano con chocolate riquísimo y saludable"
 cover: "/img/portahelado.jpg"
 ---
