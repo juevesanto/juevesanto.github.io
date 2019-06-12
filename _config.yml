@@ -1,12 +1,12 @@
 # Site settings
-title: La vegana de pueblo
-email: laveganadepueblo@gmail.com
+title: "La vegana de pueblo"
+email: "laveganadepueblo@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 future: true
-twitter_username:
-github_username:
+instagram_username: "laveganadepueblo"
+youtube_channelname: "UCpwpKnkPezvXFnVyzCWadIQ"
 
 # Build settings
 markdown: kramdown
