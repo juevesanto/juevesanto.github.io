@@ -60,7 +60,7 @@ Este helado sin gluten y sin lactosa tiene un riquísimo sabor a chocolate, es c
 Y como de costumbre: ¡el procedimiento no os lo voy a explicar yo! Lo vais a ver en este vídeo que he montado para la receta:
 
 
-{% include youtube_embed.html id="qhIjBbuPDz4&t" %}
+{% include youtube_embed.html id="qhIjBbuPDz4" %}
 
 
 
