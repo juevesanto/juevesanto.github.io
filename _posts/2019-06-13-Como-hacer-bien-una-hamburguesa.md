@@ -42,10 +42,7 @@ Si tienes queso vegano a mano has triunfado, le queda genial y se deshace, sino,
 
 A mí me gusta mucho el aguacate, como podreis comprobar en mis [dos](https://laveganadepueblo.com/2019/06/10/Pesto-Aguacate.html) [últimas](https://laveganadepueblo.com/2019/06/05/Bizcocho-chocolate-y-aguacate.html) recetas. Pero no me gusta ponerlo soso tal cual, que también está buenisimo. Lo aplasto con un tenedor, le doy un poco de gusto de sal y limón y le pongo un pegote a la hamburguesa.
 
-La verdad es que me ha sorprendido que en la encuesta muchísimas personas pensábais que sería de burritos... Eso me ha hecho reflexionar y mñas pronto que tarde os hare una receta de burritos deliciosa y casera casi al 100%, para que no tengáis que andar comprando mil cosas. 
 
-
-La verdad es que me ha sorprendido, porque hacer sushi es sencillo y no requiere tiempo alguno, así que te pido que no seas perezosa y hagas la recetita, que siempre va bien saber hacer de todo.
 
 
 
