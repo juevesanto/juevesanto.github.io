@@ -46,7 +46,7 @@ A mí me gusta mucho el aguacate, como podreis comprobar en mis [dos](https://la
 
 
 
-![](/img/burguer.JPG)
+![](/img/burguer.jpg)
 
 
 
