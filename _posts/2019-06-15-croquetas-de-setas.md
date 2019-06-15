@@ -20,7 +20,7 @@ Y sin enrollarme mucho más, te dejo con la receta para que la disfrutes y la ha
 
 
 
-![](/img/croquetas-de-setas.jpg)
+![](/img/croquetas-de-setas.JPG)
 
 
 
