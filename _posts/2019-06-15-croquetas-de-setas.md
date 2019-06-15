@@ -50,15 +50,6 @@ Y sin enrollarme mucho más, te dejo con la receta para que la disfrutes y la ha
 - Pan rallado 
 
 
-**Toppings**
-
-
-
-- Sirope de caramelo
-
-
-- Trozos de cacao puro
-
 
 
 Y como de costumbre: ¡el procedimiento no os lo voy a explicar yo! Lo vais a ver en este vídeo que he montado para la receta:
