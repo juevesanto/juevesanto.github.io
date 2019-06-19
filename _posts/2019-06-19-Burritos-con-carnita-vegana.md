@@ -69,6 +69,9 @@ Sofreímos todos los ingredientes hasta que estén bien hechos y retiramos del f
 
 
 
+
+
+
 **LO TERCERO: LA CARNITA**
 
 **Ingredientes**
@@ -87,7 +90,7 @@ El sazón puedes variarlo a tu gusto; añadir y quitar ingredientes tantos como 
 ![](/img/guacamole.HEIC)
 
 
-**LO CUARTO: MI GUACAMOLES**
+**LO CUARTO: MI GUACAMOLE**
 
 **Ingredientes**
 
@@ -98,7 +101,7 @@ El sazón puedes variarlo a tu gusto; añadir y quitar ingredientes tantos como 
 - Sal y limón al gusto.
 
 
-Y no le pongo nada más, por eso es mi aguacate... ¡Pero tu puedes usar la receta que más te guste!
+Y no le pongo nada más, por eso es *mi guacamole*... ¡Pero tu puedes usar la receta que más te guste!
 
 
 
