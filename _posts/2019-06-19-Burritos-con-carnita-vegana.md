@@ -18,7 +18,7 @@ Además del vídeo en [YouTube](https://www.youtube.com/channel/UCpwpKnkPezvXFnV
 
 
 
-![](/img/resultado.HEIC)
+![](/img/resultado.heic)
 
 
 
