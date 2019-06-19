@@ -45,7 +45,7 @@ Es importante que la masa repose durante 20 minutos para que se humedezca toda l
 
 
 
-![](/img/masa.jpg)
+![](/img/masa.JPG)
 
 
 **LO SEGUNDO: LAS VERDURITAS**
