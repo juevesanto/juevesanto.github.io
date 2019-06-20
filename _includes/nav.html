@@ -12,6 +12,12 @@
             </button>
             <a class="navbar-brand page-scroll" href="/">la vegana de pueblo</a>
         </div>
+
+        {% assign categories_base_url = '/posts/' %}
+        {% if page.url contains 'posts' %}
+            {% assign categories_base_url = '' %}
+        {% endif %}
+
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
@@ -19,24 +25,24 @@
                     <a class="dropdown-toggle" data-toggle="dropdown" href="/posts">Posts
                         <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a class="page-scroll" href="/posts/#consejos-y-ayuda"><i class="fa fa-seedling"></i>
+                        <li><a class="page-scroll" href="{{ categories_base_url }}#consejos-y-ayuda"><i class="fa fa-seedling"></i>
                                 Consejos y Ayuda</a></li>
-                        <li><a class="page-scroll" href="/posts/#recetas"><i class="fa fa-utensils"></i> Recetas</a>
+                        <li><a class="page-scroll" href="{{ categories_base_url }}#recetas"><i class="fa fa-utensils"></i> Recetas</a>
                         </li>
-                        <li><a class="page-scroll" href="/posts/#rescate-animal"><i class="fa fa-paw"></i> Rescate
+                        <li><a class="page-scroll" href="{{ categories_base_url }}#rescate-animal"><i class="fa fa-paw"></i> Rescate
                                 Animal</a></li>
-                        <li><a class="page-scroll" href="/posts/#activismo"><i class="fa fa-heart"></i> Activismo</a>
+                        <li><a class="page-scroll" href="{{ categories_base_url }}#activismo"><i class="fa fa-heart"></i> Activismo</a>
                         </li>
                     </ul>
                 </li>
                 <li class="categories-mobile"><a href="/posts">Posts</a></li>
-                <li class="categories-mobile"><a class="page-scroll" href="/posts/#consejos-y-ayuda"><i
+                <li class="categories-mobile"><a class="page-scroll" href="{{ categories_base_url }}#consejos-y-ayuda"><i
                             class="fa fa-seedling"></i> Consejos y Ayuda</a></li>
-                <li class="categories-mobile"><a class="page-scroll" href="/posts/#recetas"><i
+                <li class="categories-mobile"><a class="page-scroll" href="{{ categories_base_url }}#recetas"><i
                             class="fa fa-utensils"></i> Recetas</a></li>
-                <li class="categories-mobile"><a class="page-scroll" href="/posts/#rescate-animal"><i
+                <li class="categories-mobile"><a class="page-scroll" href="{{ categories_base_url }}#rescate-animal"><i
                             class="fa fa-paw"></i> Rescate Animal</a></li>
-                <li class="categories-mobile"><a class="page-scroll" href="/posts/#activismo"><i
+                <li class="categories-mobile"><a class="page-scroll" href="{{ categories_base_url }}#activismo"><i
                             class="fa fa-heart"></i> Activismo</a></li>
                 <li>
                     <a href="/newsletter">Newsletter</a>
