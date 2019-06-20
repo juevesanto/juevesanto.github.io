@@ -13,7 +13,7 @@ category: consejos-y-ayuda
 Hoy os traigo una receta muy especial, y es que no te la puedes comer... (aunque en realidad SÍ puedes, que esa es la gracia).
 
 
-Como os comenté en [stories](https://www.instagram.com/laveganadepueblo/?hl=es) hace unos días, fui a una formación de algo *nuevo* que os va a permitir tener acceso a información buena información sobre cosmética natural.
+Como os comenté en [stories](https://www.instagram.com/laveganadepueblo/?hl=es) hace unos días, fui a una formación de algo *nuevo* que os va a permitir tener acceso a buena información sobre cosmética natural.
 
 
 Tened en cuenta que además de la formación, antes de subir una receta se requiere de tiempo para hacer pruebas y confirmar que funciona, así que todo ese tiempo que te ahorras en andar buscando información, formándote y haciendo pruebas. 
@@ -77,7 +77,7 @@ Una vez transcurridos 5 minutos de infusión, filtramos la mezcla.
 Y mezclamos el aceite de coco con el resultado de la infusión:
 
 
-![](/img/mezlca.HEIC) 
+![](/img/mezcla.HEIC) 
 
 
 ![](/img/mezcla2.HEIC) 
