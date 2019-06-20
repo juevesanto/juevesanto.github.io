@@ -2,7 +2,7 @@
 layout: post
 title:  "Pizza veraniega"
 summary: "¡Pizza veraniega tan rica como fácil!"
-cover: "/img/VEGANPIZZA.jpg"
+cover: "/img/veganpizza.jpg"
 category: Recetas
 ---
 
