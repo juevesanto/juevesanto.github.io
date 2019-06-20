@@ -16,7 +16,7 @@ layout: posts
 
 {% for category in site.categories %}
 {% capture category_name %}{{ category | first }}{% endcapture %}
-<section class="no-padding" id="{{ category_name | slugify }}">
+<section class="no-padding" id="{{ category_name }}">
     <p class="bottom-three"></p>
     <div class="container">
         <div class="row">
