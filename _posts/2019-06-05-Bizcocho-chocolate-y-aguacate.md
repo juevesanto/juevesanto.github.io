@@ -3,7 +3,7 @@ layout: post
 title:  "Bizcocho de chocolate y aguacate"
 summary: "Bizcocho súper jugoso ideal para cualquier ocasión"
 cover: "/img/bizcocho.jpg"
-category: Recetas
+category: recetas
 ---
 
 ¡Estoy muy contenta! Y es que la mayoría de vosotros ha acertado: SÍ, este bizcocho lleva aguacate.

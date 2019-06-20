@@ -3,7 +3,7 @@ layout: post
 title:  "Burritos con carnita vegana"
 summary: "Burritos sin carne, ¡pero igualmente deliciosos!"
 cover: "/img/vegan-burrito.jpg"
-category: Recetas
+category: recetas
 ---
 
 ¡Buenos días y feliz miércoles familia!

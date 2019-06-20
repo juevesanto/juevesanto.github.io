@@ -3,7 +3,7 @@ layout: post
 title:  "Mac and Cheese Vegan"
 summary: "Los macarrones más fáciles del mundo"
 cover: "/img/mcandcheese1.jpg"
-category: Recetas
+category: recetas
 ---
 
 ¿Habéis probado alguna vez los famosos macarrones con queso? Yo de pequeña jamás los había comido, en mi casa se comía cosas tradicionales y de puchero, la verdad es que hasta los 15 o 16 años no descubrí el pesto, jajajaja... La vida es así. 

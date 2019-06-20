@@ -3,7 +3,7 @@ layout: post
 title:  "Pasta con salsa pesto de aguacate (GLUTEN FREE)"
 summary: "Pasta con salsita fácil de pesto, a base de aguacate"
 cover: "/img/portadaaguacate.jpg"
-category: Recetas
+category: recetas
 ---
 
 ¡Muy buenos días familia!

@@ -3,7 +3,7 @@ layout: post
 title:  "Pancakes o tortitas veganas (Sin huevo y sin lactosa)"
 summary: "Receta de pancakes sin plátano y súper esponjosos"
 cover: "/img/vegan-pancakes-recipe-top.jpg"
-category: Recetas
+category: recetas
 ---
 
 ¡Buenos días y feliz semana familia!

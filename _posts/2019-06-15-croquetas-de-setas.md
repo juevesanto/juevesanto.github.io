@@ -3,7 +3,7 @@ layout: post
 title:  "Croquetas de setas y champiñones"
 summary: "Croquetones de setas que quitan el sentido"
 cover: "/img/top-croquetas-de-setas.jpg"
-category: Recetas
+category: recetas
 ---
 
 ¡Buenas noches y feliz fin de semana familia!

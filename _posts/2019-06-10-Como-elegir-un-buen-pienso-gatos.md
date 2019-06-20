@@ -3,7 +3,7 @@ layout: post
 title:  "¿Cómo elegir un buen pienso para mi gato?"
 summary: "Guía rápida para elegir un buen pienso e interpretar los ingredientes."
 cover: "/img/gatoporta.jpg"
-category: Rescate Animal
+category: rescate-animal
 ---
 
 **Introducción**

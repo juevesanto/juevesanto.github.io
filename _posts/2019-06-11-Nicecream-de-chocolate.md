@@ -3,7 +3,7 @@ layout: post
 title:  "Nicecream de chocolate (GLUTEN FREE)"
 summary: "Helado de plátano con chocolate riquísimo y saludable"
 cover: "/img/portahelado.jpg"
-category: Recetas
+category: recetas
 ---
 
 ¡Buenos días y feliz semana familia!
