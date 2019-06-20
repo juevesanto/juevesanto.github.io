@@ -3,6 +3,7 @@ layout: post
 title:  "Coca de Sant Joan (Sin huevo y sin lactosa)"
 summary: "Coca de Sant Joan súper esponjosa y deliciosa"
 cover: "/img/coca-sant-joan-top.jpg"
+category: Recetas
 ---
 
 ¡Buenos días y feliz semana familia!

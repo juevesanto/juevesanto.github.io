@@ -3,6 +3,7 @@ layout: post
 title:  "Baba Ghanoush o Paté de berenjena"
 summary: "Riquísima pasta para acompañar tus platos"
 cover: "/img/PORTADAPATE.jpg"
+category: Recetas
 ---
 
 ¡Buenos días y feliz semana familia!

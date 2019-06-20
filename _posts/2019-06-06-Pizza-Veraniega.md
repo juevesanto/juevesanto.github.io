@@ -3,6 +3,7 @@ layout: post
 title:  "Pizza veraniega"
 summary: "¡Pizza veraniega tan rica como fácil!"
 cover: "/img/VEGANPIZZA.jpg"
+category: Recetas
 ---
 
 Seguramente me echo a la comunidad *anti-piña-en-pizza* encima, pero la realidad es que si sabes qué ingredientes poner, comer fruta en la pizza es buena opción. A mí la piña en la pizza me parece un poco *heavy* ya que es una fruta muy dulce y además la suelen poner sobre tomate (¿?). 

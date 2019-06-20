@@ -3,6 +3,7 @@ layout: post
 title:  "¿Cómo hacer bien una hamburguesa?"
 summary: "Aquí te doy unas claves maestras para hacer una hamburguesa Instagram"
 cover: "/img/top-vegan-hamburguer-delicious-recipe.jpg"
+category: Consejos y Ayuda
 ---
 
 ¡Buenas tardes noches, familia!

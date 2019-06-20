@@ -3,6 +3,7 @@ layout: post
 title:  "Me he encontrado a un gato en la calle, ¿Qué hago?"
 summary: "Guía práctica para el rescate de mininos"
 cover: "/img/GATONEGRO1.jpg"
+category: 'Rescate Animal'
 ---
 
 Estás caminando por la calle y escuchas un ruido… Te das la vuelta y es un gatito. Un felino precioso que maúlla porque necesita desesperadamente tu ayuda… ¿Vas a darle la espalda? ¡Claro que no! Y por eso seguramente estás aquí. 

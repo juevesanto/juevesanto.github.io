@@ -3,6 +3,7 @@ layout: post
 title:  "Sushi vegano de aguacate, pepino y zanahoria (GLUTEN FREE)"
 summary: "Receta de sushi facilísima y con muy pocos ingredientes"
 cover: "/img/vegan-sushi-top.jpg"
+categories: Recetas
 ---
 
 ¡Buenos días y feliz semana familia!

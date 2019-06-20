@@ -3,6 +3,7 @@ layout: post
 title:  "Pasta con salsa de brócoli"
 summary: "Pasta con salsita cremosa de brócoli para volverse loco"
 cover: "/img/PASTABROCOS1.jpg"
+category: Recetas
 ---
 
 ¡Muy buenas! Te doy la bienvenida a mi blog, donde subiré contenido variado (¡No todo va a ser comer en esta vida!). Considero que la vida de una persona es lo suficientemente compleja como para solo centrarme en que de vez en cuando comas algo rico. Aquí encontrarás truquitos, ideas, conversaciones filosóficas conmigo misma... Y también, dada mi experiencia en el mundo de los pequeños animales, podré ayudarte si eres rescatista animal o te gustaría serlo y muchísimas cosas que creo que deberían ser de creencia popular; como lo de que las perras necesitan quedarse mínimo una vez embarazadas (¿qué cojones?-Pienso yo pa mí misma-) o lo de que la leche aporta muchísimo calcio (jejejejejej).
