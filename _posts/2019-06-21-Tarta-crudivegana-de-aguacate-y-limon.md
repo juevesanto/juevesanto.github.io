@@ -74,7 +74,11 @@ Y sin más preámbulo, ¡Vamos con la receta!
 
 
 Como veréis en el vídeo a continuación, aunque es una base desmoldable me gusta ponerle papel de horno; para sacarla es mucho más fácil y como tiene que refrigerar no sabría si se desmoldaría bien. Al final, el resultado ha sido óptimo, pues se desmolda y se cortan los trozos muy fácilmente.
-{include youtube_embed.html id="HKucZKHJmHs” %}
+
+
+{% include youtube_embed.html id="HKucZKHJmHs" %}
+
+
 
 
 ¿Te animas a probarla? No olvides visitar el [canal](https://www.youtube.com/channel/UCpwpKnkPezvXFnVyzCWadIQ?view_as=subscriber), donde poco a poco voy subiendo recetas muy resultonas y fáciles de elaborar, para hacer de tu transición al veganismo un paseo de rosas.
@@ -94,5 +98,4 @@ Como veréis en el vídeo a continuación, aunque es una base desmoldable me gus
 
 
 *Paula, quiero volver al [inicio](https://laveganadepueblo.com/posts/)*
-
 
