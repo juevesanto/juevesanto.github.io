@@ -6,6 +6,26 @@ cover: "/img/portada-veg.jpg"
 category: consejos-y-ayuda
 ---
 
+
+¡Buenos días y feliz miércoles!
+
+
+Tal y como os conté en [stories](https://www.instagram.com/laveganadepueblo/?hl=es) el otro día, me hice vegana muy joven, cuando tan solo tenía 15 años.
+
+
+Si que es verdad que siempre he tenido cierta sensibilidad por los animales, pero jamás pensé en qué comía ya que toda la responsabilidad residía sobre mis padres. Cuando tomé conciencia y quise dar el salto al veganismo, tuve que contárselo con lo que ello conlleva...
+
+
+¡Ármate de panciencia, de amor y de serenidad! Probablemente tus familiares te ven todavía como un infante aunque tú ya no lo seas. Sabes que algo ha cambiado en ti, pero ten en cuenta que para ellxs el tiempo pasa de manera más lenta, y suelen ser reticentes al cambio.
+
+
+Disfruta de mi post más personal y sentimental que verás en este blog. Espero que mi experiencia pueda ayudarte.
+
+
+¡Allá vamos!
+
+
+
 **¿Por qué soy vegana?**
 
 
