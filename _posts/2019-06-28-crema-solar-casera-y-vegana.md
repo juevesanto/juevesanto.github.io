@@ -150,7 +150,7 @@ El óxido de zinc se usa en una amplia gama de cosméticos y productos de cuidad
 
 
 
-Como último favor te pido que te suscribas a [mi canal de YouTube](https://www.youtube.com/channel/UCpwpKnkPezvXFnVyzCWadIQ?view_as=subscriber) porque hay cositas que me gustaría personalizar y modificar (para que las recetas se vean más dinámicas) y no puedo porque necesito suscriptores. Somos una familia de casi 500 personas que cada día crece y crece más, seguro que entre todos hacemos posible llegar a los suscriptores necesarios para hacer un canal bonito.
+Como último favor te pido que te suscribas a [mi canal de YouTube](https://www.youtube.com/channel/UCpwpKnkPezvXFnVyzCWadIQ?view_as=subscriber) porque hay cositas que me gustaría personalizar y modificar (para que las recetas se vean más dinámicas) y no puedo porque necesito suscriptores. Somos una familia de más de 600 personas que cada día crece y crece más, seguro que entre todos hacemos posible llegar a los suscriptores necesarios para hacer un canal bonito.
 
 
 
