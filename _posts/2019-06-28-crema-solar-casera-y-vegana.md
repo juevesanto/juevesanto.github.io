@@ -123,7 +123,7 @@ El óxido de zinc se usa en una amplia gama de cosméticos y productos de cuidad
 
 
 
-**Lista de la compra** (pincha en el nombre del producto
+**LISTA DE LA COMPRA** *(pincha en el nombre del producto)*
 
 
 - [Manteca de Karité](https://amzn.to/2IWYE74)
