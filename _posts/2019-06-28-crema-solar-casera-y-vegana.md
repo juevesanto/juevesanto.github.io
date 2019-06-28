@@ -29,7 +29,7 @@ Pues tal y como os he contado  en [stories](https://instagram.com/laveganadepueb
 Os cuento un poco; tras unas vacaciones en 2013 en Gran Canaria, experimenté una reacción alérgica muy fuerte. Tras varias pruebas y varias visitas a urgencias, determinaron que era alérgica al sol. Es decir, que gasto crema solar **a litros**. 
 
 
-El caso es que investigando un poco me di cuenta de que las cremas solares me protegían del sol y del cáncer que este podría provocarme pero *me lo meten por otro lao'**, ya que estas cremas están cargadas de químicos perjudiciales para la piel, jamás he podido determinar si son 100% ingredientes veganos y si están libres de crueldad animal. Y gastarme más de 20€ en un bote de crema solar que me lo garantice (todo lo anterior) tampoco es solución, porque no me lo puedo permitir.
+El caso es que investigando un poco me di cuenta de que las cremas solares me protegían del sol y del cáncer que este podría provocarme pero *me lo meten por otro lao'*, ya que estas cremas están cargadas de químicos perjudiciales para la piel, jamás he podido determinar si son 100% ingredientes veganos y si están libres de crueldad animal. Y gastarme más de 20€ en un bote de crema solar que me lo garantice (todo lo anterior) tampoco es solución, porque no me lo puedo permitir.
 
 
 Así que traigo la solución definitiva: una crema solar 100% vegana, libre de crueldad animal y casera, así que conoceremos bien los ingredientes.
@@ -50,13 +50,13 @@ La receta no tiene ingredientes fáciles que podamos encontar en cualquier gran 
 - 30g de manteca de Karité o de Cacao
 
 
--30g de cera de Carnauba
+- 30g de cera de Carnauba
 
 
--2 cucharas de aceite de avellanas
+- 2 cucharadas de aceite de avellanas
 
 
--100ml de aceite de oliva (aprox. medio vaso)
+- 100ml de aceite de oliva (aprox. medio vaso)
 
 
 - 10g de óxido de zinc
@@ -138,7 +138,7 @@ El óxido de zinc se usa en una amplia gama de cosméticos y productos de cuidad
 - [Aceite de avellanas](https://amzn.to/2YirsvN)
 
 
-- `[Óxido de zinc](https://amzn.to/2Nu84eC)
+- [Óxido de zinc](https://amzn.to/2Nu84eC)
 
 
 - [Aceite esencial de semillas de zanahoria](https://amzn.to/2XGaj1W)
