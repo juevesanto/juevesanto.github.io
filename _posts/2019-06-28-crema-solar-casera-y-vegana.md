@@ -123,6 +123,31 @@ El óxido de zinc se usa en una amplia gama de cosméticos y productos de cuidad
 
 
 
+**Lista de la compra** (pincha en el nombre del producto
+
+
+- [Manteca de Karité](https://amzn.to/2IWYE74)
+
+
+- [Manteca de Cacao](https://amzn.to/2X5O1md)
+
+
+- [Cera de Carnauba](https://amzn.to/2XBmGMW)
+
+
+- [Aceite de avellanas](https://amzn.to/2YirsvN)
+
+
+- `[Óxido de zinc](https://amzn.to/2Nu84eC)
+
+
+- [Aceite esencial de semillas de zanahoria](https://amzn.to/2XGaj1W)
+
+
+- [Germen de trigo (Vitamina E)](https://amzn.to/2XzSd1D)
+
+
+
 
 
 Como último favor te pido que te suscribas a [mi canal de YouTube](https://www.youtube.com/channel/UCpwpKnkPezvXFnVyzCWadIQ?view_as=subscriber) porque hay cositas que me gustaría personalizar y modificar (para que las recetas se vean más dinámicas) y no puedo porque necesito suscriptores. Somos una familia de casi 500 personas que cada día crece y crece más, seguro que entre todos hacemos posible llegar a los suscriptores necesarios para hacer un canal bonito.
