@@ -56,11 +56,18 @@ Hoy, igual que ayer, os traigo un formato de receta diferente, un pelín más la
 
 
 
+
+
+
 {% include youtube_embed.html id="qikU6AkfXpQ" %}
 
 
 
-Como último favor te pido que te suscribas a mi canal de YouTube porque hay cositas que me gustaría personalizar y modificar (para que las recetas se vean más dinámicas) y no puedo porque necesito suscriptores. Somos una familia de más de 700 personas que cada día crece y crece más, seguro que entre todos hacemos posible llegar a los suscriptores necesarios para hacer un canal bonito.
+
+
+
+
+Como último favor te pido que te suscribas a mi canal de [YouTube](https://www.youtube.com/channel/UCpwpKnkPezvXFnVyzCWadIQ) porque hay cositas que me gustaría personalizar y modificar (para que las recetas se vean más dinámicas) y no puedo porque necesito suscriptores. Somos una familia de más de 700 personas que cada día crece y crece más, seguro que entre todos hacemos posible llegar a los suscriptores necesarios para hacer un canal bonito.
 
 
 
