@@ -2,7 +2,7 @@
 layout: post
 title:  "Hot dog de zanahoria"
 summary: "La salchicha vegana más fácil, barata y saludable"
-cover: "/img/zanahoria-portada.jpg"
+cover: "/img/portada-zanahoria.jpg"
 category: recetas
 ---
 
