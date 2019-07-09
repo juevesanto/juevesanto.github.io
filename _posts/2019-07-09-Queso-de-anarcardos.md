@@ -55,10 +55,7 @@ Esta receta va acompañada de cesta de la compra para que no te sea difícil enc
 **¿Dónde comprar los probióticos?**
 
 
-¡Click aquí para acceder a ellos!
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=laveganadepue-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B0001VVBQU&linkId=f8db0ec2fe720d384b7341020b0e77d3&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
-    </iframe>
+[¡Click aquí para acceder a ellos!](https://amzn.to/2YKb33x)
 
 
 
