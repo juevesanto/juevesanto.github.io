@@ -2,7 +2,7 @@
 layout: post
 title:  "Mousse cremosa de cerezas"
 summary: "Mousse de las delicias del Jerte"
-cover: "/img/portada-queso.jpg"
+cover: "/img/portada-cereza.jpg"
 category: recetas
 ---
 
