@@ -88,7 +88,7 @@ Ahora sí: tal y como os he comentado esta mañana, las [cerezas del Jerte](http
 
 
 
-{% include youtube_embed.html id="https://youtu.be/HL46apN6ifs" %}
+{% include youtube_embed.html id="HL46apN6ifs" %}
 
 
 
