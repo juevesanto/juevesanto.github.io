@@ -2,7 +2,7 @@
 layout: post
 title:  "Barritas de cereales"
 summary: "Barritas de cereales deliciosas, ¡haz la versión que más te guste!"
-cover: "/img/portada-barritas.png
+cover: "/img/barritas-portada.png
 "
 category: recetas
 ---
