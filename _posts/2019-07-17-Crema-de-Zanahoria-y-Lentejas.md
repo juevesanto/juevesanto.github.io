@@ -2,7 +2,8 @@
 layout: post
 title:  "Crema de zanahorias y lentejas (sin gluten)"
 summary: "Crema de verduras y legumbres, una idea excelente y un aporte protéico interesante"
-cover: "/img/lentejas-portada.png"
+cover: "/img/lentejas-portada.png
+"
 category: recetas
 ---
 
