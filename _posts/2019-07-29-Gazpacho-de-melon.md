@@ -54,6 +54,11 @@ Con este calor solamente apetecen cosas frescas, poco pesadas y que te ayuden a 
 - Sal al gusto
 
 
+
+- 1 Rebanada de pan de molde
+
+
+
 - 1 cebolla (opcional)
 
 
