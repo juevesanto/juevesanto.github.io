@@ -2,7 +2,7 @@
 layout: post
 title:  "Leche de coco (Sin gluten)"
 summary: "La bebida vegetal más dulce"
-cover: "/img/lechee-portada.png
+cover: "/img/leche-portada.png
 "
 category: recetas
 ---
