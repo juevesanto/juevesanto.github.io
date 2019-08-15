@@ -81,7 +81,7 @@ Platos principales:
 - Queso vegano (opcional)
 
 
-![](/img/calabacin.JPG)
+![](/img/calabacin.png)
 
 
 
