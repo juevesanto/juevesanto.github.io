@@ -8,7 +8,7 @@ category: recetas
 ---
 
 
-¡Muy buenos días y feliz lunes familia de pueblo!
+¡Muy buenos días familia de pueblo!
 
 
 ¿Qué tal, como estáis? ¡Yo encantada de poder estar un día más aquí compartiendo recetas deliciosas, fáciles y aptas para (casi) todos los públicos una semana más. 
@@ -18,13 +18,12 @@ category: recetas
 
 
 
-
-Hoy os traigo una receta que a decir verdad es sencillísima. Y por eso precisamente la traigo al canal; digamos que es la materia prima de infinidad de recetas dulces, fáciles y deliciosas que podemos hacer. 
-
+Hoy os traigo un remember de una receta que publiqué en Instagram. ¿Quieres saber de que se trata?
 
 
 
-¿Quieres saber cómo hacerla? ¡Pues vamos con la receta!
+¡Pues vamos con la receta!
+
 
 
 
@@ -49,10 +48,16 @@ Platos principales:
 
 
 [Albóndigas en salsa casera](https://laveganadepueblo.com/recetas/2019/07/01/albondigas-en-salsa-casera/)
+
 [Arroz al curry](https://laveganadepueblo.com/recetas/2019/06/25/Arroz-al-curry/)
+
 [Pasta al pesto de aguacate](https://laveganadepueblo.com/recetas/2019/06/10/Pesto-Aguacate/)
+
 [Pasta con salsa de brócoli](https://laveganadepueblo.com/recetas/2019/06/01/pasta-con-salsa-de-brocoli/)
+
 [Macarrones con queso](https://laveganadepueblo.com/recetas/2019/06/07/Mac-and-Cheese-Vegan/)
+
+
 
 
 ** ⏱ Tiempo aproximado: 30 minutos**
