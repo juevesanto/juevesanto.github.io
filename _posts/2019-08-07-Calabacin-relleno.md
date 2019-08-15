@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Yogur de coco (Sin gluten)"
-summary: "El yogur vegetal más dulce"
+title:  "Calabacín relleno (Sin gluten)"
+summary: "Nunca pensaste que un calabacín daba tanto de sí."
 cover: "/img/calabacin-portada.png
 "
 category: recetas
