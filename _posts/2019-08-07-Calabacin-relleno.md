@@ -60,7 +60,7 @@ Platos principales:
 
 
 
-** ⏱ Tiempo aproximado: 30 minutos**
+ ⏱ **Tiempo aproximado: 30 minutos**
 
 
 
@@ -81,7 +81,7 @@ Platos principales:
 - Queso vegano (opcional)
 
 
-![](/img/calabacin.png)
+
 
 
 
@@ -113,6 +113,11 @@ Platos principales:
 
 
 **Recuerda que este procedimiento también puedes verlo en historias destacadas de mi perfil de Instagram o clickando [aquí](https://www.instagram.com/stories/highlights/17901694693356749/?hl=es)**
+
+
+![](/img/calabacin.png)
+
+
 
 
 
