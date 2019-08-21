@@ -30,7 +30,15 @@ Mi respuesta es: ❌ NO ⠀
 
 
 
-⁉️ ¿y por qué? ⁉️ pues porque todavía no he subido mi receta infalible 🙅 pero aquí la tienes por fin:
+**¿y por qué?**
+
+
+
+pues porque todavía no he subido mi receta infalible 🙅 
+
+
+
+pero aquí la tienes por fin:
 
 
 
@@ -85,8 +93,10 @@ Acompáñala con:
 
 - 1 cucharada sopera de vinagre de manzana
 
-⠀
+
 - 3 cucharadas de café de sal Kala Namak
+
+
 
 
 
