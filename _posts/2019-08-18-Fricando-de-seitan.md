@@ -64,7 +64,7 @@ Platos principales:
 
 
 
-** Para la picada**
+**Para la picada**
 
 
 
