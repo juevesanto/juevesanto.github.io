@@ -140,7 +140,7 @@ Aunque solo sea desde abajo, merece la pena subir solo por las vistas.
 
 - Costa Adeje
 
-
+![](/img/quever.jpg)
 
 **3. ¿Dónde comer?**
 
