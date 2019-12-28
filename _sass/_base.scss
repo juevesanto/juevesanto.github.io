@@ -179,6 +179,7 @@ header {
     margin-top: 0;
 }
 
+
 .service-box {
     max-width: 400px;
     margin: 50px auto 0;
@@ -199,6 +200,10 @@ header {
  }
 
 #post {
+    .post-title{
+        font-family: 'Playlist Script';
+        font-size: 4em;
+    }
     .container{
         max-width: 800px;
     }
