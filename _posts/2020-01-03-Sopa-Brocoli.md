@@ -28,7 +28,7 @@ Y por eso estoy aquí hoy: para traeros una receta de sopa de brócoli que reviv
 
 
 
-🍴  **Número de comensales:  2 pax. **
+🍴  **Número de comensales:  2 pax.**
 
 ⏱ **Tiempo aproximado: 60 minutos**
 
