@@ -2,7 +2,7 @@
 layout: post 
 title:  "Crema pastelera (sin huevo y sin leche)"
 summary: "La crema pastelera más dulce con los animales y el planeta"
-cover: "/img/crema-portada.png
+cover: "/img/crema-portada.jpg
 "
 category: recetas
 ---
