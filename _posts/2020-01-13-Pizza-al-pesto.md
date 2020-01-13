@@ -2,7 +2,7 @@
 layout: post 
 title:  "Pizza al pesto"
 summary: "No limitemos las salsas a acompañar solo a la pasta"
-cover: "/img/pizza-pesto-portada.png
+cover: "/img/pizza-pesto-portada.jpg
 "
 category: recetas
 ---
