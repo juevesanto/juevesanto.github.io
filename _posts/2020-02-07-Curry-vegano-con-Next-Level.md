@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  "Curry vegano con Next Level"
-summary: "¡Lo que hemos hecho con una hamburguesa!
+summary: "¡Lo que hemos hecho con una hamburguesa!"
 cover: "/img/curry-portada.jpg
 "
 category: recetas
