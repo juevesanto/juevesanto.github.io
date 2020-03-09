@@ -31,7 +31,7 @@ Así que si lo que estás es buscando recetas para sacarle partido a esta delici
 
 
 
-![](/img/pollo-al-limon.jpg)
+![](/img/pollo-al-limon.JPG)
 
 🍴  **Número de comensales:  2pax**
 
@@ -109,7 +109,7 @@ Harina de maiz para el rebozado
 
 4. ¡A servir! Ya estará listo nuestro no-pollo al limón.
 
-![](/img/pollo-al-limon-textura.jpg)
+![](/img/pollo-al-limon-textura.JPG)
 
 
 
