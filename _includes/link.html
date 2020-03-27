@@ -1,11 +1,19 @@
 <style>
     .link-button {
-        margin: 1em;
+        margin-bottom: 1em;
+        font-family: 'Raleway', 'Helvetica Neue', Arial, sans-serif;
+        display: block;
+        width: 100%;
+        border: none;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        text-align: center;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: white;
     }
 </style>
 
-<div class="row">
-    <div class="col-lg-12 text-center">
-        <a href="{{ include.url }}" target="_blank" class="btn btn-info btn-xl link-button wow tada">{{ include.name }}</a>
-    </div>
-</div>
+<a href="{{ include.url }}" target="_blank" class="link-button"
+    style="background-color:{{ include.color | default: "#ff9797" }};">{{ include.name }}</a>
