@@ -3,7 +3,7 @@ layout: post
 title:  "Mascarilla capilar vegan y ecológica"
 summary: "Mascarilla capilar facilísima y muy respetuosa con el medio ambiente"
 cover: "/img/portadacrema.jpg"
-category: consejos-y-ayuda
+category: cosmetica-y-belleza
 ---
 
 
