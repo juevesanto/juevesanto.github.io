@@ -4,7 +4,7 @@ title:  "Pasta de dientes"
 summary: "Dentífrico vegano, casero y ecológico"
 cover: "/img/portada-dientes.jpg
 "
-category: consejos-y-ayuda
+category: cosmetica-y-belleza
 ---
 
 
