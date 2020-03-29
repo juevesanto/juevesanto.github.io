@@ -325,14 +325,14 @@ Totalmente seguro. Además de poder hacerlo online con toda la seguridad y con u
 
 
 
-Sephora como tal tiene una marca propia, además de las mencionadas. Y no, desgraciadamente no es cruelty-free. Esta marca testa en países donde estña obligada por ley la experimentación en animales; con lo cual, no se considera una marca libre de crueldad animal.
+Sephora como tal tiene una marca propia, además de las mencionadas. Y no, desgraciadamente no es cruelty-free. Esta marca testa en países donde está obligada por ley la experimentación en animales; con lo cual, no se considera una marca libre de crueldad animal.
 
 
 **¡HORROR! Mi marca favorita no está en la lista... ¿Qué hago?**
 
 
 
-No te preocupes. Si tu marca favorita no está en la lista, puedo ayudarte a encontara una alternativa. Solo tienes que <a href="mailto:laveganadepueblo@gmail.com?Subject=Horror,%20mi%20marca%20favorita%20no%20est%C3%A1%20en%20la%20lista">enviar un correo</a> a mi dirección o haciendo click en el enlace. Te enviaré información de la marca, además.
+No te preocupes. Si tu marca favorita no está en la lista, puedo ayudarte a encontar una alternativa. Solo tienes que <a href="mailto:laveganadepueblo@gmail.com?Subject=Horror,%20mi%20marca%20favorita%20no%20est%C3%A1%20en%20la%20lista">enviar un correo</a> a mi dirección o haciendo click en el enlace. Te enviaré información de la marca, además.
 
 
 
